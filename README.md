@@ -4,8 +4,10 @@
 <li>RPS minigame.</li>
 <li>Picture config to change.</li>
 <li>Easy to config</li></ul>
-##
+
+## Info
 Modified to NYC server theme
+
 ## NYC MAPS
 - [CRM DEVELOPMENT](https://discord.gg/crm)  
 - [Hell Script Shop](https://discord.gg/WKNRDtF9jp) 
